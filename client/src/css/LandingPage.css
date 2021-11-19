@@ -1,0 +1,25 @@
+.landing {
+  display: flex;
+  height: 100vh;
+}
+
+.landing-box {
+  display: flex;
+  align-items: center;
+  border: 1px solid black;
+  width: 50%;
+}
+.landing-box h2 {
+  width: 25%;
+  border: 1px solid black;
+}
+
+.create {
+  justify-content: end;
+}
+
+.gallery {
+  justify-content: start;
+}
+
+/*# sourceMappingURL=LandingPage.css.map */

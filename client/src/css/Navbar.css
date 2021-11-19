@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+.navbar h1 {
+  font-size: 1.5rem;
+  margin: 0.5rem 0;
+}
+
+.nav-buttons {
+  display: flex;
+  align-items: center;
+}
+
+/*# sourceMappingURL=Navbar.css.map */

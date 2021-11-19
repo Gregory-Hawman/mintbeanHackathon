@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+
+    h1 {
+        font-size: 1.5rem;
+        margin: .5rem 0;
+    }
+}
+
+.nav-buttons {
+    display: flex;
+    align-items: center;
+}
