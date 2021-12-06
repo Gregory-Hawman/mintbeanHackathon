@@ -1,0 +1,22 @@
+.workSpace {
+    display: flex;
+}
+
+.toolBar {
+    border: 1px solid black;
+    margin: 1rem .5rem 1rem 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+    div {
+        border: 1px solid black;
+        margin: .5rem;
+    }
+}
+
+.myCanvas {
+    border: 1px solid black;
+    margin: 1rem 1rem 1rem .5rem;
+    width: 100%;
+}

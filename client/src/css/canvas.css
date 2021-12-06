@@ -1,0 +1,23 @@
+.workSpace {
+  display: flex;
+}
+
+.toolBar {
+  border: 1px solid black;
+  margin: 1rem 0.5rem 1rem 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.toolBar div {
+  border: 1px solid black;
+  margin: 0.5rem;
+}
+
+.myCanvas {
+  border: 1px solid black;
+  margin: 1rem 1rem 1rem 0.5rem;
+  width: 100%;
+}
+
+/*# sourceMappingURL=canvas.css.map */
