@@ -21,6 +21,7 @@ function Canvas(props) {
              <canvas className="myCanvas" ref={canvasRef} {...rest}>
                  <p>Your browser does not support canvases</p>
              </canvas>
+             <button>Save</button>
          </div>
     )
 }

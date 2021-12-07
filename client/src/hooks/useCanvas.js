@@ -21,7 +21,7 @@ function useCanvas(draw, options={}) {
             window.cancelAnimationFrame(animationFrameId)
         }
 
-    }, [draw])
+    }, [draw, options])
 
     return canvasRef
 }
